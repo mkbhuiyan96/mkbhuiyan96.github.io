@@ -23,9 +23,9 @@ Expected Graduation Date: May, 2024
 _March 2023 - Present_  
 Connecting with female engineers and entrepreneurs and participating in skill-building workshops through the facilitation of live, and virtual classes learning web development with HTML, CSS, and JavaScript.
 
-**Vowel GUI Project | Queens College**  
-_December 2022_  
-Implemented GUI that took an input file and listed all the words starting with vowels, and which line numbers those words showed up in, ignoring duplicate words by using a hashmap.
+**Auto Enroller Discord Bot | Queens College**  
+_July 2023_  
+Discord Bot developed in python that notifies users when a course at Queens College opens or closes. Optional the ability to automatically enroll the owner of the bot to the class they are tracking.
 
 ## RELEVANT COURSEWORK
 
