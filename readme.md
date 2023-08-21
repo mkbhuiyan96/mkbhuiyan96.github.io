@@ -3,8 +3,8 @@
 - **Email**: [mkbhuiyan96@gmail.com](mailto:mkbhuiyan96@gmail.com)
 - **Phone**: (516) 647 - 0854
 - **Location**: New York City, NY
-- **LinkedIn**:[https://www.linkedin.com/in/mohammad-bhuiyan-a5aa91242/]
-- **GitHub**:[https://github.com/mkbhuiyan96]
+- **LinkedIn**: https://www.linkedin.com/in/mohammad-bhuiyan-a5aa91242/
+- **GitHub**: https://github.com/mkbhuiyan96
 
 ## OBJECTIVE
 
