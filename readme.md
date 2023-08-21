@@ -6,10 +6,6 @@
 - **LinkedIn**: https://www.linkedin.com/in/mohammad-bhuiyan-a5aa91242/
 - **GitHub**: https://github.com/mkbhuiyan96
 
-## OBJECTIVE
-
-Inventive undergraduate student with excellent analytic skills and a demonstrated commitment to being a team leader. Reliable organizational abilities with proven accomplishments in managing multiple academic projects and volunteering events. Professional team player devoted to advancing academic pursuits at a collegiate level. Bringing forth a motivated attitude and a variety of powerful skills.
-
 ## EDUCATION
 
 **Queens College, City University of New York**  
